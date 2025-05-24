@@ -32,7 +32,7 @@ Key aspects of the analysis include:
 
 ---
 
-## 📈 Future Improvements
+## Future Improvements
 
 - Add predictive modeling to forecast delays.
 - Include more years or datasets from different countries.
